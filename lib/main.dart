@@ -5,6 +5,7 @@ void main() {
   runApp(MyApp());
 }
 
+
 class MyApp extends StatelessWidget {
   String URI = 'https://adelaideinside.com/';
   @override
